@@ -1,0 +1,109 @@
+[
+    {
+      "_id":{"$oid":"6442fb53f05f8d6bc8733597"},
+      "name": "Acer I3 10TH",
+      "type": "laptop_pro",
+      "designiation": "ACER I3 10TH 4CPU UP 3,40GHZ 8GB DDR4 2667MHZ 256GB SSD NVME M2 ECRAN NANOEDGE 15,6 FHD IPS AVEC UHD GRAPHIC BTRY UP 7H  LIKE NEW",
+      "description": "ACER I3 10TH 4CPU UP 3,40GHZ 8GB DDR4 2667MHZ 256GB SSD NVME M2 ECRAN NANOEDGE 15,6 FHD IPS AVEC UHD GRAPHIC BTRY UP 7H  LIKE NEW",
+      "price": 3560,
+      "oldprice": 3760,
+      "stock": 10,
+      "colors":["grey","Silver","Black","White"],
+      "images": [
+          "/assets/articles/images/pc_pro/acier i3 - 10th/Image_acier i3 - 10th_ (1).jpg",
+          "/assets/articles/images/pc_pro/acier i3 - 10th/Image_acier i3 - 10th_ (2).jpg",
+          "/assets/articles/images/pc_pro/acier i3 - 10th/Image_acier i3 - 10th_ (3).jpg",
+          "/assets/articles/images/pc_pro/acier i3 - 10th/Image_acier i3 - 10th_ (4).jpg",
+          "/assets/articles/images/pc_pro/acier i3 - 10th/Image_acier i3 - 10th_ (5).jpg",
+          "/assets/articles/images/pc_pro/acier i3 - 10th/Image_acier i3 - 10th_ (6).jpg"
+      ],
+      "videos":[
+          "/assets/articles/images/pc_pro/video_acier i3 - 10th_ (1).mp4",
+          "/assets/articles/images/pc_pro/video_acier i3 - 10th_ (2).mp4"
+      ],
+      "num_stars": 4,
+      "details": [
+          {"type":"Display", "value":"15.6", "detail":"NANO-EDGE FULL HD IPS"},
+          {"type":"RAM", "value":"8 GB", "detail":"DDR4 SDRAM 2667MHZ"},
+          {"type":"Hard_disk", "value":"256 GB", "detail":"NVME M2 KINGSTON"},
+          {"type":"CPU", "value":"I3 10th", "detail":"1,20 GHz / 3,40 GHz"},
+          {"type":"GPU", "value":"INTEL UHD", "detail":"4 GB TOTALE"},
+          {"type":"Battery", "value":"7H", "detail":"7H plus ou moins EN MODE ECO"}
+      ]
+    },
+    {
+      "_id":{"$oid":"6442fb9bf05f8d6bc8733598"},
+      "name": "DELL VOSTRO 15 3000 SÉRIES",
+      "type": "laptop_pro",
+      "designiation": "ACER I3 10TH 4CPU UP 3,40GHZ 8GB DDR4 2667MHZ 256GB SSD NVME M2 ECRAN NANOEDGE 15,6 FHD IPS AVEC UHD GRAPHIC BTRY UP 7H  LIKE NEW",
+      "description": "ACER I3 10TH 4CPU UP 3,40GHZ 8GB DDR4 2667MHZ 256GB SSD NVME M2 ECRAN NANOEDGE 15,6 FHD IPS AVEC UHD GRAPHIC BTRY UP 7H  LIKE NEW",
+      "price": 3500,
+      "oldprice": 3700,
+      "stock": 5,
+      "colors":["grey","Silver","Black","White"],
+      "images": [
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (1).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (2).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (3).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (4).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (5).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (6).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (7).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (8).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (9).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (10).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (11).jpg",
+          "/assets/articles/images/pc_pro/dell i3 -  6th/Image_dell i3 -  6th_ (12).jpg"
+      ],
+      "videos":[
+          "/assets/articles/images/pc_pro/video_dell i3 -  6th_ (1).mp4",
+          "/assets/articles/images/pc_pro/video_dell i3 -  6th_ (2).mp4"
+      ],
+      "num_stars": 3.5,
+      "details": [
+          {"type":"Display", "value":"15.6", "detail":"NANO-EDGE FULL HD IPS"},
+          {"type":"RAM", "value":"8 GB", "detail":"DDR4 SDRAM 2667MHZ"},
+          {"type":"Hard_disk", "value":"128 GB", "detail":"SSD"},
+          {"type":"CPU", "value":"I3 6th", "detail":"1,20 GHz / 3,40 GHz"},
+          {"type":"GPU", "value":"INTEL 520", "detail":"4 GB TOTALE"},
+          {"type":"Battery", "value":"4H", "detail":"4H plus ou moin EN MODE ECO"}
+      ]
+    },
+    {
+      "_id":{"$oid":"6442fbb1f05f8d6bc8733599"},
+      "name": "DELL LATITUDE PRO",
+      "type": "laptop_pro",
+      "designiation": "ACER I3 10TH 4CPU UP 3,40GHZ 8GB DDR4 2667MHZ 256GB SSD NVME M2 ECRAN NANOEDGE 15,6 FHD IPS AVEC UHD GRAPHIC BTRY UP 7H  LIKE NEW",
+      "description": "ACER I3 10TH 4CPU UP 3,40GHZ 8GB DDR4 2667MHZ 256GB SSD NVME M2 ECRAN NANOEDGE 15,6 FHD IPS AVEC UHD GRAPHIC BTRY UP 7H  LIKE NEW",
+      "price": 3300,
+      "oldprice": 3600,
+      "stock": 6,
+      "colors":["grey","Silver","Black","White"],
+      "images": [
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (1).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (2).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (3).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (4).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (5).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (6).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (7).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (8).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (9).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (10).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (11).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (12).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (13).jpg",
+          "/assets/articles/images/pc_pro/dell i5  - 6th/Image_dell i5  - 6th_ (14).jpg"
+      ],
+      "videos":[],
+      "num_stars": 4.5,
+      "details": [
+          {"type":"Display", "value":"15.6", "detail":"NANO-EDGE FULL HD IPS"},
+          {"type":"RAM", "value":"8 GB", "detail":"DDR4 SDRAM 2667MHZ"},
+          {"type":"Hard_disk", "value":"256 GB", "detail":"SSD"},
+          {"type":"CPU", "value":"I5 6300U", "detail":"VPRO 8 cpu 1,20 GHz / 3 GHz"},
+          {"type":"GPU", "value":"INTEL 520", "detail":"4 GB TOTALE"},
+          {"type":"Battery", "value":"5H", "detail":"5H plus ou moin EN MODE ECO"}
+      ]
+    }
+]
